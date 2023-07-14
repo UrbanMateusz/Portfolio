@@ -1,6 +1,6 @@
 # Portfolio
-<h2>It is my portfolio for Quality Assurance</h2>
-<h1>Projectt Kapusta (WIP):</h1>
+<h1>It is my portfolio for Quality Assurance</h1>
+<h2>Project Kapusta (WIP):</h2>
 <ol>
 <li>https://docs.google.com/spreadsheets/d/1N3tA7OBEH5_6SxG7ukDkLu2IzJmpqdqV69yYawrjRRk/edit?usp=sharing</li>
 <li>https://docs.google.com/spreadsheets/d/1Yi2fQCTNYgoTZuf5atZ6O-xl0sbErD43calKmm9szGE/edit?usp=sharing</li>
